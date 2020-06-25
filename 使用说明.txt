@@ -1,0 +1,2 @@
+Winner为主类，Test中调取Winner中的方法，判断谁获胜，每个人有一个等级，等级类为Grade。
+使用maven，未使用gradle。
